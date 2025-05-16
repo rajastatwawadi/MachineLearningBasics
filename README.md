@@ -1,5 +1,4 @@
 # MachineLearningBasics
-Here I have put basic Machine Learing tasks implemented from scratch.
 This repository contains fundamental implementations of a wide variety of machine learning algorithms and models. Each concept is implemented from scratch or using standard libraries to help solidify understanding through code.
 
 ---
